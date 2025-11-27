@@ -1,5 +1,3 @@
-# Atividade-AF-Refactory-code
-
 # Refacotored Code
 
 ## Classe Calculadora
