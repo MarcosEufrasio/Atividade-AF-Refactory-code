@@ -1,7 +1,11 @@
 # Atividade-AF-Refactory-code
 
+# Refacotored Code
+
 ## Classe Calculadora
-## <img width="1023" height="599" alt="image" src="https://github.com/user-attachments/assets/9511774a-1e43-48ef-8d7d-36fd4b4da6f9" />
+## <img width="1344" height="598" alt="image" src="https://github.com/user-attachments/assets/f119867a-b897-4c54-8983-4537973ece14" />
+
 
 # Classe TesteCalculadora
-## <img width="1339" height="754" alt="image" src="https://github.com/user-attachments/assets/e29e0b5e-560f-4748-a137-e27bf78ed9ce" />
+## <img width="1342" height="773" alt="image" src="https://github.com/user-attachments/assets/898e4680-bd13-42a6-8bce-a4f8dcf468da" />
+
